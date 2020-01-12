@@ -1,6 +1,6 @@
 {
   "name": "book-club",
-  "homepage": "https://<USERNAME>.github.io/<REPO NAME>",
+  "homepage": "https://mwwasswa.github.io/BookClub_client",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
